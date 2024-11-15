@@ -15,3 +15,5 @@ void calculate_ema(const std::vector<double>& prices, double alpha) {
         std::cout << "EMA after price " << prices[i] << ": " << ema << "\n";
     }
 }
+
+
